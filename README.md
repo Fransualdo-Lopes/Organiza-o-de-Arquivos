@@ -16,8 +16,8 @@ Veja como instalar o Python em meu outro Repositório Rotinas linux: Intalar o P
 1- Clone o repositório:
 
    ```
-   git clone https://github.com/Fransualdo-Lopes/TRATAMETO_DE_DADOS.git
-   cd TRATAMETO_DE_DADOS/
+   git clone https://github.com/Fransualdo-Lopes/Organiza-o-de-Arquivos.git
+   cd Organiza-o-de-Arquivos/
    ```
    
 
@@ -35,6 +35,7 @@ Veja como instalar o Python em meu outro Repositório Rotinas linux: Intalar o P
    ```
     python script_dados.py
    ```
+
     Os arquivos organizados serão colocados na pasta FOLDER.
 
 ## Estrutura do Projeto
