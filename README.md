@@ -39,13 +39,13 @@ Veja como instalar o Python em meu outro Repositório Rotinas linux: Intalar o P
 
 ## Estrutura do Projeto
 
-    `script_dados.py`: O script principal para organizar os arquivos.
-    `clientes.csv`: Arquivo CSV com informações dos clientes.
-    `contratos.csv`: Arquivo CSV com informações dos contratos.
-    `arquivos.csv`: Arquivo CSV com informações sobre os arquivos.
-    `Atendimentos.csv`: Arquivo CSV com informações sobre os atendimentos.
-    `Geral/`: Pasta de origem para os arquivos a serem organizados.
-    `FOLDER/`: Pasta de destino para os arquivos organizados.
+    script_dados.py: O script principal para organizar os arquivos.
+    clientes.csv: Arquivo CSV com informações dos clientes.
+    contratos.csv: Arquivo CSV com informações dos contratos.
+    arquivos.csv: Arquivo CSV com informações sobre os arquivos.
+    Atendimentos.csv: Arquivo CSV com informações sobre os atendimentos.
+    Geral/: Pasta de origem para os arquivos a serem organizados.
+    FOLDER/: Pasta de destino para os arquivos organizados.
 
 ## Contribuição
 
