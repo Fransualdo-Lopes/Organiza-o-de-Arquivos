@@ -33,7 +33,7 @@ Veja como instalar o Python em meu outro Repositório Rotinas linux: Intalar o P
    2- Execute o script principal:
 
    ```
-    python script_dados.py
+    python3 script_dados.py
    ```
 
     Os arquivos organizados serão colocados na pasta FOLDER.
