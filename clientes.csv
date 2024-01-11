@@ -1,0 +1,29 @@
+Id_cli,Tipo_p,CNPJ_CNPF,Nome,Situacao
+1,J,,Nome de cliente dos santos,A
+2,F,,Nome de cliente dos Silva,C
+3,F,,Nome de cliente dos da costa,C
+4,F,,Nome de cliente dos santos,A
+5,J,,Nome de cliente sarmento,C
+6,F,,Nome de cliente da costa,C
+7,F,,Nome de cliente dos bezerra,C
+8,F,,Nome de cliente da penha,A
+9,F,,João Silva,A
+10,F,,Maria Oliveira,A
+11,F,,Carlos Santos,C
+12,F,,Ana Costa,C
+13,F,,Luiz Pereira,C
+14,J,,Camila Martins,A
+15,F,,Rodrigo Almeida,C
+16,F,,Juliana Lima,A
+17,F,,Felipe Rocha,C
+18,F,,Isabela Fernandes,C
+19,F,,André Castro,C
+20,F,,Larissa Carvalho,C
+21,F,,Guilherme Oliveira,C
+22,F,,Bruna Silva,C
+23,F,,Marcelo Santos,C
+24,F,,Renata Costa,C
+25,F,,Thiago Pereira,C
+26,J,,Fernanda Martins,C
+27,F,,Lucas Almeida,C
+28,F,,Gabriela Lima,C
